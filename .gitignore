@@ -1,0 +1,6 @@
+.env
+.cache
+.DS_Store
+images/
+Aaargh.ttf
+/.ipynb_checkpoints
